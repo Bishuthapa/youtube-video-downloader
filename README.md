@@ -59,7 +59,7 @@ sudo apt install ffmpeg
 
 1. Run the script:
 ```bash
-python video_downloader.py
+python video.py
 ```
 
 2. When prompted, enter the video URL:
